@@ -1,13 +1,4 @@
-# Discord翻訳Bot ✅ 実行準備完了
-
-DeepL APIを使用したDiscord翻訳botです。
-
-## 🚀 セットアップ完了
-
-✅ 依存関係インストール済み
-✅ 環境変数設定済み (.env)  
-✅ コマンド登録準備完了
-✅ Bot実行準備完了
+# DeepL APIを使用したDiscord翻訳botです。
 
 ## ⚡ クイックスタート
 
