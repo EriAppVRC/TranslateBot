@@ -62,7 +62,7 @@ class TranslationManager {
             const result = await this.translator.translateText(
                 text.substring(0, 100), // 最初の100文字のみ使用
                 null, // 自動検出
-                'EN' // 英語に翻訳して言語を検出
+                'en-US' // 英語（アメリカ）に翻訳して言語を検出
             );
 
             return result.detectedSourceLang || 'auto';
