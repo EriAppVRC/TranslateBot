@@ -6,7 +6,6 @@
 [![Discord.js](https://img.shields.io/badge/discord.js-v14.21.0-blue.svg)](https://discord.js.org/)
 [![DeepL API](https://img.shields.io/badge/DeepL-API%20v2-green.svg)](https://www.deepl.com/docs-api)
 [![Node.js](https://img.shields.io/badge/node.js-v18+-brightgreen.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ---
 
